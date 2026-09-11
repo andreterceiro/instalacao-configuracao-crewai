@@ -1,4 +1,4 @@
-# Instalação e Confguração do CrewAI
+# Instalação e Configuração do CrewAI
 
 Neste curso, você aprenderá a instalar e confgurar o CrewAI em diferentes ambientes, garantindo uma base
 sólida para o desenvolvimento de agentes inteligentes. Ao fnal, você será capaz de preparar o ambiente,
